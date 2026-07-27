@@ -5,10 +5,10 @@
   - <h2>👨‍💻 Certifications:</h2>
   
 - <b>CISCO CCNA</b>
-  - [CCNA](https://github.com/joshmadakor1/EncrypterPOC)
+  - [CCNA]
  
 - <b>COMPTIA A+</b>
-  - [COMPTIA A+](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [COMPTIA A+]
     
 - <b>MICROSOFT AZURE AZ104 (in progress)</b>
 
