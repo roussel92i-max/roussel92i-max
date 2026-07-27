@@ -14,8 +14,7 @@
 - <b>MICROSOFT AZURE AZ104 (in progress)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
--[How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell]
-(https://www.youtube.com/watch?v=fphE9jM3ChY)
+-[How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://www.youtube.com/watch?v=fphE9jM3ChY)
 
 <h2> 🤳 Connect with me:</h2>
 
