@@ -1,15 +1,15 @@
 <h1>Hi, I'm Roussell! <br/><a href="www.linkedin.com/in/roussell-wematcho-41056277/"> IT Support Specialist</a>
  <h2>👨‍💻 General IT Projets:</h2>
-  - <b>Basic Employee Onboarding (AD)(RBAC)</b>
+  <b>Basic Employee Onboarding (AD)(RBAC)</b>
   
 - https://github.com/roussel92i-max/Basic-Employee-Onboarding-AD-RBAC-
   - <h2>👨‍💻 Certifications:</h2>
   
 - <b>CISCO CCNA</b>
-  - [CCNA]:https://cp.certmetrics.com/cisco/en/public/verify/credential/e65af01257c849328095d413da55208a
+  - [CCNA]https://cp.certmetrics.com/cisco/en/public/verify/credential/e65af01257c849328095d413da55208a
  
 - <b>COMPTIA A+</b>
-  - [COMPTIA A+]:https://cp.certmetrics.com/comptia/en/public/verify/credential/240447f1546846679bb13956fa500761
+  - [COMPTIA A+]https://cp.certmetrics.com/comptia/en/public/verify/credential/240447f1546846679bb13956fa500761
     
 - <b>MICROSOFT AZURE AZ104 (in progress)</b>
 
