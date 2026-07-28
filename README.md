@@ -9,6 +9,7 @@
   - [CCNA](https://cp.certmetrics.com/cisco/en/public/verify/credential/e65af01257c849328095d413da55208a)
   - [Comptia A+](https://cp.certmetrics.com/comptia/en/public/verify/credential/240447f1546846679bb13956fa500761l)
   - [Technical Support Fundamentals](https://coursera.org/verify/82WEE9WRSZD5)
+  - [Introduction to ITIL® Foundation 4](https://www.simplilearn.com/free-itil-v-four-course-skillup)
 
 
 <h2>📺 Popular YouTube Videos</h2>
