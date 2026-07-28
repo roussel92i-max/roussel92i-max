@@ -5,6 +5,9 @@
 - <b>Active Directory Practice </b>
   - [Basic-Employee-Onboarding-AD-RBAC-](https://github.com/roussel92i-max/Basic-Employee-Onboarding-AD-RBAC-)
   - [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://www.youtube.com/watch?v=fphE9jM3ChY) <b><i></b></i>
+  - <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [JWipe (Disk Wiping Utility)]
 - <b>Certifications </b>
   - [CCNA](https://cp.certmetrics.com/cisco/en/public/verify/credential/e65af01257c849328095d413da55208a)
   - [Comptia A+](https://cp.certmetrics.com/comptia/en/public/verify/credential/240447f1546846679bb13956fa500761l)
